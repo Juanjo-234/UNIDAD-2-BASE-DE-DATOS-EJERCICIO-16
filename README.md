@@ -11,4 +11,5 @@ El modelo debe contemplar:
 - Pagos de alquiler: registrar el período abonado, fecha de pago, monto, medio de pago (transferencia, efectivo o tarjeta) y recargo por mora, si corresponde.
 
 Finalmente, se deben identificar las entidades, sus atributos, las relaciones y las cardinalidades, asegurando que cada propiedad tenga un único propietario y que un contrato de alquiler pueda tener múltiples pagos mensuales asociados.
-<img width="1932" height="1352" alt="EJERCICIO 16 drawio" src="https://github.com/user-attachments/assets/9a57a05b-a47b-4c46-a93a-369e93fff2c6" />
+<img width="1932" height="1352" alt="EJERCICIO 16 drawio" src="https://github.com/user-attachments/assets/6c0c04fc-5b6a-4b48-9c59-7d7c1858ccb0" />
+
